@@ -6,5 +6,10 @@ My name is SeungHoon Shin and I recently graduated from Queens College with a BA
 Please check out **[My website](https://shino022.github.io/Portfolio-website/)** 👈
 
 ### My skill set
-ReactJS, NodeJS, Python, ExpressJS, Postgres, Bootstrap, HTML, CSS, Javascript
+ReactJS, Redux, NodeJS, ExpressJS, Python, Flask, PostgreSQL, MongoDB, Bootstrap, HTML, CSS, Javascript
+
+### Project
+Currently, working on:
+- [Pet Prodigy](https://github.com/CTP-team-meeter/pet-prodigy)
+- [Two Boxes](https://github.com/DuyAndShin/Two-Boxes)
 
