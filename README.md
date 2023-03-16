@@ -11,5 +11,3 @@ ReactJS, Redux, NodeJS, ExpressJS, Python, Flask, PostgreSQL, MongoDB, Bootstrap
 ### Project
 Currently, working on:
 - [Pet Prodigy](https://github.com/CTP-team-meeter/pet-prodigy)
-- [Two Boxes](https://github.com/DuyAndShin/Two-Boxes)
-
